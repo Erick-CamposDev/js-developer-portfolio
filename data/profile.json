@@ -47,13 +47,21 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Clonando a página do Youtube",
+      "url": "https://github.com/Erick-CamposDev/Clone-Youtube.git",
+      "certificate": "https://assets.dio.me/e3-yFg-Qsn2Fd67GcsBHyR0i2jSEHU0HBoqDNgBMzlM/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9NRDRJTUdFTC5qcGc",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Clonando a página do Discord",
+      "url": "https://github.com/Erick-CamposDev/Clone-Discord.git",
+      "certificate": "https://assets.dio.me/_U4ecjU8L112Gu8_K9jetX3gdbIdHnISbsJ7x6LUrrM/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8wQUIwM0lWVi5qcGc",
+      "github": true
+    },
+    {
+      "name": "Jogo de jokenpo utilizando as cartas de Yugi-Oh!",
+      "url": "https://github.com/Erick-CamposDev/Yugi-oh-Jokenpo.git",
+      "certificate": "https://assets.dio.me/0rJgLCkXMjLozGYjwKDMxK47-jYTscc3ajxbAV93JpY/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9CREZIR1I5Sy5qcGc",
       "github": true
     }
   ],
